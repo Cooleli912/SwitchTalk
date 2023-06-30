@@ -1,3 +1,8 @@
+# THIS PROJECT IS CANCELLED
+Maybe just on hold, but there was an issue during testing, the user on the switch doesn't get a P2P ID and there are other ways, but they would require Firebase which with my google account, isn't gonna work, so the project is on hold for now.
+
+
+
 # SwitchTalk
 A simple application for the Nintendo Switch which uses the secret web browser to access others via P2P connections.
 It is completely open-source and there has been research done too.
